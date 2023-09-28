@@ -12,6 +12,6 @@ List of Topics:
 5.conditions
 6.loops
 7.exit status & Redirections & Quotes
-8.SED Editor
+8.SED Editor.
 
 
